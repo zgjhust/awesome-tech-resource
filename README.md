@@ -8,5 +8,4 @@
 <img src="./images/alitech.bmp" width="130" height="130" alt="阿里技术"/>
 
 - [美团点评技术团队](https://tech.meituan.com/)
-
 <img src="./images/meituantech.jpg" width="130" height="130" alt="美团点评技术团队"/>
