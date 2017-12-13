@@ -8,10 +8,10 @@
 
 微信公众号：
 
-![阿里技术](./images/alitech.bmp){:height="130px" width="130px"}
+<img src="./images/alitech.bmp" width="130" height="130" alt="阿里技术"/>
 
 - [美团点评技术团队](https://tech.meituan.com/)
 
 微信公众号：
 
-![美团点评技术团队](./images/meituantech.jpg){:height="130px" width="130px"}
+<img src="./images/meituantech.jpg" width="130" height="130" alt="美团点评技术团队"/>
