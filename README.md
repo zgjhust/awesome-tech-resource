@@ -6,12 +6,8 @@
 
 - [阿里技术Web版](https://yq.aliyun.com/teams/111)
 
-微信公众号：
-
 <img src="./images/alitech.bmp" width="130" height="130" alt="阿里技术"/>
 
 - [美团点评技术团队](https://tech.meituan.com/)
-
-微信公众号：
 
 <img src="./images/meituantech.jpg" width="130" height="130" alt="美团点评技术团队"/>
