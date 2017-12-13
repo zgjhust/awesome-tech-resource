@@ -1,2 +1,8 @@
-# awesome-tech-resource
-A collection of tech. blog and wechat official accounts of internet company world wide.
+# 优秀技术资源
+
+> 国内外优秀互联网公司及个人博客、微信公众号等技术资源汇总。
+
+## 国内互联网公司官方技术博客及公众号
+
+- 阿里技术
+[![阿里技术](./images/alitech.bmp)]
