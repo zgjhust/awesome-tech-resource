@@ -9,3 +9,9 @@
 微信公众号：
 
 ![阿里技术](./images/alitech.bmp)
+
+- [美团点评技术团队](https://tech.meituan.com/)
+
+微信公众号：
+
+![美团点评技术团队](./images/meituantech.jpg)
