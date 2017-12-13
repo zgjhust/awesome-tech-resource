@@ -22,7 +22,6 @@
 - [阿里(原淘宝JAVA)中间件团队博客](http://jm.taobao.org/)
 - [阿里数据库内核月报](http://mysql.taobao.org/monthly/)
 
-- 
 ## 前端及用户体验
 
 - [财付通设计中心 TID ](http://tid.tenpay.com/)
