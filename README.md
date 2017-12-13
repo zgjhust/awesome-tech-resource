@@ -6,4 +6,4 @@
 
 - 阿里技术
 
-[![阿里技术](./images/alitech.bmp)]
+![阿里技术](./images/alitech.bmp)
