@@ -4,6 +4,8 @@
 
 ## 国内互联网公司官方技术博客及公众号
 
-- [阿里技术](https://yq.aliyun.com/teams/111)
+- [阿里技术Web版](https://yq.aliyun.com/teams/111)
+
+微信公众号：
 
 ![阿里技术](./images/alitech.bmp)
